@@ -1,0 +1,31 @@
+ 
+ body{
+    background-size: cover;
+    background-position: center;
+ }
+
+ #co{
+    font-size: 30px;
+    font-weight: bold;
+    color: aliceblue;
+ }
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 20px;
+width: 201px;
+border-radius: 10px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px rgb(136, 79, 35);
+    border-radius: 10px;
+   }
+
